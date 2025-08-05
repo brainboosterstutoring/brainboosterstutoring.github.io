@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Brain Boosters!</title>
+    <link>//localhost:1313/authors/</link>
+    <description>Recent content in Authors on Brain Boosters!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Rhian Poole</copyright>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rhianpoole</title>
+      <link>//localhost:1313/authors/rhianpoole/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/rhianpoole/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rhianpooleproshot</title>
+      <link>//localhost:1313/authors/rhianpooleproshot/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/rhianpooleproshot/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
