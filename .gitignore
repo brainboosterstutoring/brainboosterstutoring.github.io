@@ -17,6 +17,6 @@ _site/
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
-brainboosterstutoring/public/*
-brainboosterstutoring/resources/*
+/brainboosterstutoring/public/*
+/brainboosterstutoring/resources/*
 /public/*
