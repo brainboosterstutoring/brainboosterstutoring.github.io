@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 
-![Thank You Banner](/img/brainboosters.jpeg)
+![Thank You Banner](/img/thanks.png)
 
 # 🎉 Thank You!
 
