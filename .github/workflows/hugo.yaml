@@ -71,7 +71,7 @@ jobs:
         run: git config core.quotepath false
       - name: Build with Hugo
         run: |
-          cd gloomsprout
+          cd brainboosterstutoring
           hugo \
             --gc \
             --minify \
@@ -87,7 +87,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./gloomsprout/public
+          path: ./brainboosterstutoring/public
 
   # Deployment job
   deploy:
