@@ -33,16 +33,16 @@ To gain QTS, I completed **rigorous teacher training**, learned how to adapt to 
 
 ## How That Helps Your Child as a Tutor
 
-### 1. I Know the Curriculum—Inside and Out  
+### I Know the Curriculum—Inside and Out  
 Because of my QTS training and experience, I’m confident navigating the national curriculum at every level—from phonics and SATs to GCSEs and A-Levels. I won’t just help your child “get through their work”—I’ll help them truly understand what they’re learning, and **why** it matters.
 
-### 2. I Teach, Not Just Explain  
+### I Teach, Not Just Explain  
 Being a tutor with QTS means I bring full teaching strategies into our sessions. I don’t just go through answers—I build your child’s confidence, develop their independent thinking, and help them overcome the “I’m just not good at this” mindset.
 
-### 3. I’m Trained to Support Additional Needs  
+### I’m Trained to Support Additional Needs  
 If your child has **dyslexia, ADHD, autism, or struggles with anxiety**, you’ll want someone who understands how to adapt their approach. With QTS, I’ve had formal training in **special educational needs** (SEND), behaviour management, and building a safe and supportive learning environment.
 
-### 4. You Can Trust the Standards I Work To  
+### You Can Trust the Standards I Work To  
 My QTS status means:
 - I’ve passed enhanced **DBS checks**
 - I follow **safeguarding guidelines**
@@ -50,7 +50,7 @@ My QTS status means:
 
 You don’t have to wonder if I’m qualified—I’m held to the same professional bar as every classroom teacher.
 
-### 5. I Focus on Long-Term Growth, Not Quick Fixes  
+### I Focus on Long-Term Growth, Not Quick Fixes  
 Lots of tutors can help a student cram for a test. I do that too—but I also focus on helping your child become a more **confident, capable learner** who can approach future challenges with resilience.
 
 ---

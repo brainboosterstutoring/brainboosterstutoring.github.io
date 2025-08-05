@@ -43,20 +43,33 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
+
+
 [[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
+
+  [[main]]
   name = "About"
   pageRef = "about"
+  weight = 15
+
+[[main]]
+  name = "Pricing"
+  pageRef = "pricing"
   weight = 20
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 25
 
 [[main]]
   name = "Testimonials"
   pageRef = "testimonials"
   weight = 30
 
-[[main]]
-  name = "Posts"
-  pageRef = "posts"
-  weight = 10
 
 
 # -- Footer Menu --
