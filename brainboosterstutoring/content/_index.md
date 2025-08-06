@@ -17,7 +17,7 @@ Hi! My name is Rhian, and I’m a qualified teacher & tutor with over 6 years’
 - **Private Tutoring**: 8 years
 - **Qualified Teacher**: 6 years
 - **Assistant Teacher**: 3 years  
-- **SEND**: 4 yrs with ADHD, autism, dyslexia  
+- **SEND**: 6 yrs with ADHD, autism, dyslexia  
 - **Style**: Calm, structured, adaptable  
 - **Curriculum**: UK primary & secondary  
 - **Focus**: Confidence, exams, literacy, wellbeing  
