@@ -1,9 +1,11 @@
 ---
-title: 📬 Contact Us
+title: Contact Us
 date: 2025-08-01
 draft: false
 showDate: false
 showReadingTime: false
+showAuthor: false
+showWordCount: false
 showEdit: false
 showTableOfContents: false
 ---

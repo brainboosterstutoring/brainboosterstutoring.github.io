@@ -5,8 +5,8 @@ draft: false
 showDate: false
 showReadingTime: false
 showEdit: false
-authors:
-  - "rhianpoole"
+showAuthor: false
+showWordCount: false
 showTableOfContents: false
 ---
 
