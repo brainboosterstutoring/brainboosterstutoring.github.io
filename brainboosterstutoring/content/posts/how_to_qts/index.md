@@ -2,8 +2,10 @@
 title: "Changing Careers? Here’s How I Got QTS Certified in the UK"
 date: 2025-08-01
 draft: false
-description: "Get QTS Certified in the UK"
-tags: ["about me", "qts"]
+description: "A personal account of transitioning into teaching and obtaining Qualified Teacher Status (QTS) in the UK."
+slug: "how_to_qts"
+tags: ["QTS", "PGCE", "Teacher Training Routes", "Assessment Only Route", "SCITT", "Career Transition", "Teaching Bursaries", "Teacher Certification", "UK Education System", "Teacher Training Costs"]
+categories: ["Career Change", "Teacher Training", "Education"]
 showDate: false
 authors:
   - "rhianpoole"

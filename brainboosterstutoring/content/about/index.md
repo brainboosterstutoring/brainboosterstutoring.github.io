@@ -4,7 +4,8 @@ date: 2025-07-29
 draft: false
 description: "A page about me."
 slug: "about"
-tags: ["about me", "sample"]
+tags: ["Private Tutoring", "Qualified Teacher", "Primary Education", "PGCE", "SEND Support", "Maths Tutoring", "English Tutoring", "Personalized Learning", "Educational Philosophy", "Tutoring Experience", "West London Tutor"]
+categories: ["Tutoring", "About", "Education"]
 showDate: true
 authors:
   - "rhianpooleproshot"

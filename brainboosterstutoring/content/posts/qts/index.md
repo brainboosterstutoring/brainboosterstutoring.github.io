@@ -2,8 +2,10 @@
 title: "Why My QTS Boosts Your Child’s Tutoring Success"
 date: 2025-08-01
 draft: false
-description: "Why My QTS Boosts Private Tutoring"
-tags: ["about me", "qts"]
+description: "Discover how my Qualified Teacher Status (QTS) enhances the quality and effectiveness of the tutoring services I offer."
+slug: "qts-tutoring-success"
+tags: ["Qualified Teacher Status (QTS)", "Private Tutoring", "SEND Support", "Curriculum Knowledge", "Teaching Standards", "Educational Qualifications", "Personalized Learning", "Confidence Building", "Maths Tutoring", "English Tutoring"]
+categories: ["Tutoring", "Teacher Qualifications", "Education"]
 showDate: false
 authors:
   - "rhianpoole"
