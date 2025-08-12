@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Brain Boosters!"
+title = "Brain Boosters | Private Tutoring in Ealing (KS1–KS4)"
 
 [params]
   displayName = "EN"
@@ -11,11 +11,11 @@ title = "Brain Boosters!"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "One-to-one Maths, English, Science and SEND-friendly tutoring in Ealing (W5). QTS-qualified, DBS-checked. Calm, structured lessons online or in West London."
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Rhian Poole"
+   name = "Brain Boosters"
    # email = "youremail@example.com"
    image = "img/brainboosters.jpeg"
    imageQuality = 96

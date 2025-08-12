@@ -7,7 +7,9 @@ categories: ["Tutoring"]
 
 <div align="left">
 
-Hi! My name is Rhian, and I’m a qualified teacher & tutor with over 6 years’ experience supporting children with and without additional needs. Offering Maths, English, and Science tuition, creative art and sensory learning sessions, and family-focused consultancy.
+Hi! My name is Rhian, and I’m a qualified teacher & tutor with over 6 years’ experience supporting children with and without additional needs. I offer  Maths, English, and Science tuition, creative art and sensory learning sessions, and family-focused consultancy in Ealing (W5), West London.
+
+
 
 {{< figure src="tutoring.png" class="m-auto mt-6 max-w-prose" >}}
 
@@ -30,3 +32,5 @@ Hi! My name is Rhian, and I’m a qualified teacher & tutor with over 6 years’
 - **Collaboration**: Parents & schools welcome!  
 
 </div>
+
+{{< button href="/contact/" >}}Contact Us{{< /button >}}  
