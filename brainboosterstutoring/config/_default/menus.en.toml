@@ -37,11 +37,6 @@
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
 
 
 
@@ -50,7 +45,7 @@
   pageRef = "posts"
   weight = 10
 
-  [[main]]
+[[main]]
   name = "About"
   pageRef = "about"
   weight = 15
@@ -69,24 +64,43 @@
   name = "Testimonials"
   pageRef = "testimonials"
   weight = 30
+
 [[main]]
   name = "Location"
   pageRef = "location"
   weight = 35
-
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 15
+
+[[footer]]
+  name = "Pricing"
+  pageRef = "pricing"
+  weight = 20
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 25
+
+[[footer]]
+  name = "Testimonials"
+  pageRef = "testimonials"
+  weight = 30
+
+[[footer]]
+  name = "Location"
+  pageRef = "location"
+  weight = 35
