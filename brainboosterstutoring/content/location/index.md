@@ -38,14 +38,14 @@ showReadingTime: false
 ## Common questions (short answers)
 - **Online or in-person?** Both—depending on availability and location.  
 - **Homework?** Short, high-impact practice only.  
-- **Cancellations?** 24-hour notice preferred (see pricing page for details).  
+- **Cancellations?** 24-hour notice or pay half of the lesson tuition fee (see pricing page for details).  
 
 {{< button href="/testimonials/" >}}Read parent reviews{{< /button >}}
 
 ---
 
 ## Areas served
-Ealing • West Ealing • Ealing Common • Acton • Chiswick • Hanwell
+West London • Ealing • West Ealing • Ealing Common • Acton • Chiswick • Hanwell 
 
 ---
 

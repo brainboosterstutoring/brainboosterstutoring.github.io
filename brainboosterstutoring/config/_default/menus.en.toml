@@ -41,14 +41,14 @@
 
 
 [[main]]
-  name = "Posts"
+  name = "Tutoring"
   pageRef = "posts"
-  weight = 10
+  weight = 15
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 15
+  weight = 10
 
 [[main]]
   name = "Pricing"
@@ -66,7 +66,7 @@
   weight = 30
 
 [[main]]
-  name = "Location"
+  name = "Info"
   pageRef = "location"
   weight = 35
 
@@ -76,7 +76,7 @@
 
 
 [[footer]]
-  name = "Posts"
+  name = "Tutoring"
   pageRef = "posts"
   weight = 10
 
@@ -101,6 +101,6 @@
   weight = 30
 
 [[footer]]
-  name = "Location"
+  name = "Info"
   pageRef = "location"
   weight = 35
