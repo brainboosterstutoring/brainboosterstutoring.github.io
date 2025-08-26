@@ -10,6 +10,7 @@ tags: ["Ealing","West London","Primary Tutor","SEND","KS1","KS2","KS3","KS4"]
 categories: ["Locations"]
 showDate: false
 showReadingTime: false
+showWordCount: false
 ---
 
 <!-- HERO -->
