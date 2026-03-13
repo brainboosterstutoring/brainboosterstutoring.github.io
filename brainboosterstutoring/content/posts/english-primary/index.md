@@ -37,9 +37,25 @@ showDate: false
 ---
 ## What’s covered (at a glance)
 
-**Key Stage 1 (Years 1–2):** Spoken language, **phonics & early reading**, handwriting, spelling, basic grammar and punctuation, and short writing pieces.
+**Key Stage 1 (Years 1–2):** 
+* Spoken language development and vocabulary building, 
+* Systematic phonics (blending, segmenting, tricky words), 
+* Early reading fluency and comprehension, 
+* Handwriting formation and stamina, 
+* Spelling foundations and high-frequency words, 
+* Simple sentence construction, punctuation and short independent writing
 
-**Key Stage 2 (Years 3–6):** Fluent reading and **comprehension** (inference, summary, vocabulary), structured **writing** (plan–draft–edit), advanced grammar and punctuation, and spelling rules/patterns.
+
+**Key Stage 2 (Years 3–6):** 
+
+* Fluent, expressive reading with deep comprehension (inference, deduction, summary, author intent, vocabulary development)
+* Structured writing: planning, drafting, editing and improving
+* Paragraph organisation and cohesion
+* Grammar mastery (tenses, clauses, sentence types)
+* Confident use of punctuation (commas, apostrophes, speech marks, etc.)
+* Spelling rules, morphology and etymology
+* Building independence and exam readiness (where appropriate)
+
 
 ## Common sticky spots
 
