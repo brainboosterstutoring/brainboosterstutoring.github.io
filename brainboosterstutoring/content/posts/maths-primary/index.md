@@ -50,25 +50,69 @@ showDate: false
 ## What’s covered (at a glance)
 
 **Key Stage 1 (Years 1–2)**
-Counting and place value, number bonds, addition/subtraction, early multiplication/division, money, time, and simple shapes/measures.
-(See the **Mathematics** section in the **[Primary National Curriculum (PDF)](https://assets.publishing.service.gov.uk/media/5a81a9abe5274a2e8ab55319/PRIMARY_national_curriculum.pdf)**.)
+
+* Secure counting and place value within 100
+* Number bonds and mental strategies
+* Addition and subtraction (including regrouping)
+* Early multiplication and division through grouping and sharing
+* Money, time, measures and simple geometry
+* Mathematical language development
+* Strong foundations at this stage are essential — especially for pupils who struggle with working memory or processing speed.
 
 **Key Stage 2 (Years 3–6)**
-Larger numbers and efficient methods, times tables, fractions/decimals/percentages, long multiplication/division, ratio, algebraic thinking, geometry, and measurement.
-(Again, outlined in the **[Primary National Curriculum (PDF)](https://assets.publishing.service.gov.uk/media/5a81a9abe5274a2e8ab55319/PRIMARY_national_curriculum.pdf)**.)
 
-## Common sticky spots for children
+* Place value with larger numbers
+* Efficient written and mental methods
+* Secure times table fluency (a core priority)
+* Fractions, decimals and percentages (including equivalence and problem solving)
+* Long multiplication and division
+* Ratio and early algebraic thinking
+* Geometry, measurement and unit conversion
+* Multi-step reasoning and word problems
+* I focus not just on procedures, but on deep conceptual understanding so methods actually “stick.”
 
-* **Number sense & place value** (e.g., regrouping across 10/100).
-* **Times tables recall**, which underpins most KS2 methods.
-* **Fractions → decimals → percentages**, especially equivalence.
-* **Multi-step word problems**, where language can hide the maths.
-* **Time and measures**, including converting between units.
+## Common Sticky Spots
+
+**Many children I work with (particularly those with ADHD, autism, dyslexia or anxiety around maths) experience:**
+
+* Weak number sense or insecure place value
+* Difficulty regrouping across 10, 100 or 1000
+* Slow or inconsistent times table recall
+* Confusion moving between fractions, decimals and percentages
+* Word problems where language processing hides the maths
+* Unit conversion (time, money, metric measures)
+* Maths anxiety leading to shutdown or avoidance
+* Cognitive overload in multi-step calculations
+
 
 ## How I support your child
 
-* **Personalised plan:** I meet them where they are and map clear next steps.
-* **Concrete → pictorial → abstract:** hands-on models before symbols.
-* **Small wins, often:** short practice, retrieval, and lots of encouragement.
-* **Confidence culture:** mistakes are information, not failure.
-* **Light-touch homework & parent updates** so you always know how it’s going.
+My maths teaching is structured, calm and confidence-building.
+
+#### Personalised Maths Roadmap
+
+* I assess carefully, identify gaps, and map precise next steps — often repairing foundational misunderstandings that have been missed in busy classrooms.
+
+#### Concrete → Pictorial → Abstract
+
+* We use manipulatives, visual models (bar models, part-whole diagrams), and structured representations before moving fully into symbols.
+
+#### Cognitive Load Aware
+
+* Instructions are chunked. Methods are taught explicitly. We practise retrieval regularly to strengthen long-term memory.
+
+#### Fluency with Understanding
+
+* Short, consistent practice builds automaticity — especially with times tables — so working memory is freed for reasoning.
+
+#### Language First
+
+* For word problems, we break down vocabulary, identify key information, and rehearse thinking aloud before solving.
+
+#### Confidence Culture
+
+* Mistakes are analysed, not criticised. I prioritise regulation and resilience alongside academic progress.
+
+#### Clear Communication
+
+* Light, achievable practice at home and regular updates so you can see growth clearly.

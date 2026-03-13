@@ -59,11 +59,15 @@ showDate: false
 
 ## Common sticky spots
 
-* Blending/segmenting in **phonics** and “tricky words.”
-* **Inference** in reading—reading between the lines.
-* **Sentence structure**, tenses, and punctuation (commas, apostrophes).
-* **Spelling** patterns and homophones.
-* **Handwriting stamina** and presentation.
+* Many of the pupils I support are bright but blocked in specific areas:
+* Phonics gaps affecting reading fluency
+* Weak inference skills (“reading between the lines”)
+* Sentence expansion and control of tenses
+* Punctuation accuracy
+* Spelling patterns and homophones
+* Slow processing or working-memory overload
+* Low confidence due to previous school experiences
+* Regulation challenges impacting written output
 
 ## How I support your child
 
