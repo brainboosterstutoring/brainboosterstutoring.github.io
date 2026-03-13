@@ -55,9 +55,24 @@ showDate: false
 
 ## What’s covered (at a glance)
 
-* Core skills: **drawing, painting, sculpture**; plus printmaking, collage, textiles, and simple digital media.
-* Elements of art: **colour, line, shape, form, space, pattern, texture**.
-* Looking outward: learning about **artists, craft makers, and designers**; talking about art; evaluating work.
+* Core Practical Skills
+* Drawing (line, tone, proportion, perspective)
+* Painting (colour theory, mixing, layering techniques)
+* Sculpture and 3D form
+* Printmaking, collage and mixed media
+* Textiles and surface design
+* Introductory digital media where appropriate
+* Elements & Principles of Art
+* Colour, line, shape, form and space
+* Pattern and texture
+* Composition and balance
+* Light and shadow
+* Developing personal style and visual voice
+* Looking Outward
+* Studying artists, designers and craft makers
+* Learning how to analyse and discuss artwork
+* Making connections between inspiration and own work
+* Reflecting thoughtfully on creative choices
 
 ## Common sticky spots
 
